@@ -1,0 +1,13 @@
+body
+{
+color:burlywood;
+background-color: darkgoldenrod;
+}
+h1{
+    
+    display: inline-block;
+}
+p{
+    text-align: center;
+    color: darkcyan;
+}
